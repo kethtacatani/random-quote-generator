@@ -1,5 +1,4 @@
 .background{
-  background-color: blueviolet;
   margin: 0;
   display: flex;
   justify-content: center;
@@ -24,7 +23,6 @@ button, a{
   padding: 0.5em;
   justify-content: to;
   width: fit-content;
-  background-color: #1a1a1a;
   border: 1px solid transparent;
   font-family: inherit;
   font-size: 1em;
