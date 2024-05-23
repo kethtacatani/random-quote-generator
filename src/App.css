@@ -1,0 +1,33 @@
+.background{
+  background-color: blueviolet;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#quote-box{
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  max-width: 80vh;
+  border-radius: 1em;
+  margin: 1em;
+}
+#author{
+  margin-bottom:1em;
+}
+
+button, a{
+  margin-right: 1em;
+  border-radius: 6px;
+  padding: 0.5em;
+  justify-content: to;
+  width: fit-content;
+  background-color: #1a1a1a;
+  border: 1px solid transparent;
+  font-family: inherit;
+  font-size: 1em;
+}
+
+\
